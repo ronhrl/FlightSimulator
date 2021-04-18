@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FlightSimulator2.App" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightSimulator2.MainWindow">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.Client">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BKQAAAAEAAAAAAABQAAAAIgg6AAAJAgAKAQgBEEAAIg=</HashCode>
+      <FileName>model\Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.FeaturesGraphM" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIABAgEQAIMBAAAAAQAAgAAAAAAAAAIJABAEAYI=</HashCode>
+      <FileName>model\FeaturesGraphM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.FlightInsturmentsM" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAUAAAYEAAKABAAAggAAAAEIAGIBAQBAAEEA=</HashCode>
+      <FileName>model\FlightInsturmentsM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.JoystickM" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAghAIAIBAEAAAQAgAQAAAgAEAAgABAEAAA=</HashCode>
+      <FileName>model\JoystickM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.Line" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAACAARAAAAAAgAAAAAEAAAAwAQAAIAAAAAA=</HashCode>
+      <FileName>model\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightSimulator2.model.LoadingFilesM" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAiABAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>model\LoadingFilesM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.PlayerControlBarM" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAoBAACIAJAQIAAgIEAAgCjAAAAIAEAIAAAAEAA=</HashCode>
+      <FileName>model\PlayerControlBarM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.model.RegresionLineM" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAECAAABioIAAhAAgAIAAiAAAIEAAAABAAAAAAAA=</HashCode>
+      <FileName>model\RegresionLineM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightSimulator2.Properties.Settings">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightSimulator2.view.AnomalyDetectorDll">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAECAAAAAAAAgBBAAAAAAAA=</HashCode>
+      <FileName>view\AnomalyDetectorDll.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.User" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIQAAAAAAAAIAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>view\AnomalyDetectorDll.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightSimulator2.view.FeaturesGraphV" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>view\FeaturesGraphV.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.FlightInsturments" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>view\FlightInsturments.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.Joystick" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQAAAEAAACAAIAAAAAAAAIIAAAAAAAAAIAAJAA=</HashCode>
+      <FileName>view\Joystick.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.LoadingFiles" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAEAACAAAAA=</HashCode>
+      <FileName>view\LoadingFiles.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.PlayerControllBar" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAEAAAAAAMAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>view\PlayerControllBar.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.RegresionLine" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>view\RegresionLine.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.view.SpeedRatio">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>view\SpeedRatio.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.AnomalyDetectorDllVM">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgAAAACIAAAAAAgAAAgAEAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>viewModel\AnomalyDetectorDllVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.FeaturesGraphVM" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACGAAAAAQAAgAIAIAACAAAAQwBAAAIAAAAgAAAAIAAA=</HashCode>
+      <FileName>viewModel\FeaturesGraphVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.FlightInsturmentsVM" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQAAAIIAAAAAAAAAAgQAIAAAAAAAAAAACIQA=</HashCode>
+      <FileName>viewModel\FlightInsturmentsVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.JoystickVM" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAIAAAAAAAAAAkAAAAAABBAAAIAAAAAE=</HashCode>
+      <FileName>viewModel\JoystickVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.LoadingFilesVM" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAgACAAAARIAEAAIAAAAAgAAAAAAAAAAABAAIAAA=</HashCode>
+      <FileName>viewModel\LoadingFilesVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.PlayerControllBarVM" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAgAAIAQAABAAAAAgAAAAAQAAAAAAAIAAAA=</HashCode>
+      <FileName>viewModel\PlayerControllBarVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.RegresionLineVM" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEFAAAAAAAIAAgAAgAAAQgAAAAEAAAAAAEAAAAAA=</HashCode>
+      <FileName>viewModel\RegresionLineVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightSimulator2.viewModel.SpeedRatioVM">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIIAAAAAAAAAAgAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>viewModel\SpeedRatioVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
